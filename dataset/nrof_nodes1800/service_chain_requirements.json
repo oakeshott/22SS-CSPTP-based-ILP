@@ -1,0 +1,25 @@
+[
+    {
+        "arrival_time": 0.5396058372591854,
+        "destination": 1792,
+        "id": 0,
+        "origin": 1096,
+        "processing_time": 100.0,
+        "request": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "required_bandwidth": 0.1,
+        "required_processing_func": {
+            "0": 0.00092,
+            "1": 0.0009,
+            "2": 0.0133,
+            "3": 0.0054,
+            "4": 0.0107
+        },
+        "required_processing_node": 0.0005
+    }
+]
